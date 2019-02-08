@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"><!--Cambiamos el selector por un animation-List-->
+<item
+    android:drawable="@drawable/wifi_vector"
+    android:duration="400"/>
+<!--Son los items que se utilizan para realizar la animación, en este caso los vectores-->
+    <item
+        android:drawable="@drawable/wifi_vector_1"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wifi_vector_2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wifi_vector_3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/wifi_vector_4"
+        android:duration="400"/>
+</animation-list>
